@@ -1,3 +1,10 @@
+# Clean App is full stack application using laravel that allows users find cleaners for a cleaning Job.
+
+
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
