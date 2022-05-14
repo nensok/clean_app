@@ -1,4 +1,4 @@
-# Clean App is full stack application using laravel that allows users find cleaners for a cleaning Job.
+# Clean App is a full stack application using laravel that allows users find cleaners for a cleaning Job.
 
 
 
